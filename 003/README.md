@@ -1,1 +1,1 @@
-The project was created based on the course '100 Days of Code: The Complete Python Pro Bootcamp' on Udemy. This is my journey of learning the Python programming language.
+The game and theme were self-created based on the methods taught on Day 3 of the "100 Days of Code" course.
